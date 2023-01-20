@@ -1,0 +1,1 @@
+we can use useState Hook to keep track of each input values and provide a single source of truth  for the entire application
